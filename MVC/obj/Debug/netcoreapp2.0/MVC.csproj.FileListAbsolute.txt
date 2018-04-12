@@ -1,0 +1,10 @@
+D:\Learning\DotnetCore\MVC\bin\Debug\netcoreapp2.0\MVC.deps.json
+D:\Learning\DotnetCore\MVC\bin\Debug\netcoreapp2.0\MVC.runtimeconfig.json
+D:\Learning\DotnetCore\MVC\bin\Debug\netcoreapp2.0\MVC.runtimeconfig.dev.json
+D:\Learning\DotnetCore\MVC\bin\Debug\netcoreapp2.0\MVC.dll
+D:\Learning\DotnetCore\MVC\bin\Debug\netcoreapp2.0\MVC.pdb
+D:\Learning\DotnetCore\MVC\obj\Debug\netcoreapp2.0\MVC.csproj.CoreCompileInputs.cache
+D:\Learning\DotnetCore\MVC\obj\Debug\netcoreapp2.0\MVC.AssemblyInfoInputs.cache
+D:\Learning\DotnetCore\MVC\obj\Debug\netcoreapp2.0\MVC.AssemblyInfo.cs
+D:\Learning\DotnetCore\MVC\obj\Debug\netcoreapp2.0\MVC.dll
+D:\Learning\DotnetCore\MVC\obj\Debug\netcoreapp2.0\MVC.pdb
